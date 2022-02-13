@@ -1,13 +1,17 @@
 # Font Minimal
 
 A minimal font (only 3x5 pixels).
- 
-## Example
- 
-Append `@niklauslee/font-minimal` module.
+
+## Install
+
+```sh
+npm install https://github.com/niklauslee/simple-fonts
+```
+
+## Usage
  
 ```js
-var font = require('@niklauslee/minimal');
+var font = require('simple-fonts/minimal');
 // get graphic context 'gc' from a driver (e.g. 'ssd1306')
 gc.setFont(font);
 gc.setFontScale(3, 3); // Enlarge font size to be readible.
@@ -17,4 +21,5 @@ gc.display();
  
 ## Glyph
 
-![1582699277414.png](/api/projects/niklauslee/font-minimal/photos/1582699277414.png)
+![logo](https://github.com/niklauslee/simple-fonts/blob/master/glyph-minimal?raw=true)
+
