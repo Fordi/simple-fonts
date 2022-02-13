@@ -21,5 +21,5 @@ gc.display();
  
 ## Glyph
 
-![logo](https://github.com/niklauslee/simple-fonts/blob/master/glyph-minimal.jpeg?raw=true)
+![glyph-minimal](https://github.com/niklauslee/simple-fonts/blob/main/glyph-minimal.jpeg?raw=true)
 
