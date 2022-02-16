@@ -1,6 +1,6 @@
 # Simple Fonts for Kaluma
 
-This module includes several bitmap fonts for Kaluma as below:
+This module includes several bitmap fonts for [Kaluma](https://kalumajs.org) as below:
 
 - `minimal` : A minimal font (3x5 pixels).
 - `leros` : A monotype font (5x10 pixels).
