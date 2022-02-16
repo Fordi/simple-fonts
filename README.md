@@ -31,19 +31,19 @@ gc.display();
 
 __minimal__
 
-![glyph-minimal](https://github.com/niklauslee/simple-fonts/blob/main/images/minimal.jpeg?raw=true)
+![glyph-minimal](https://github.com/niklauslee/simple-fonts/blob/main/images/minimal.png?raw=true)
 
 __leros__
 
-![glyph-leros](https://github.com/niklauslee/simple-fonts/blob/main/images/leros.jpeg?raw=true)
+![glyph-leros](https://github.com/niklauslee/simple-fonts/blob/main/images/leros.png?raw=true)
 
 __yamaha__
 
-![glyph-yahama](https://github.com/niklauslee/simple-fonts/blob/main/images/yamaha.jpeg?raw=true)
+![glyph-yahama](https://github.com/niklauslee/simple-fonts/blob/main/images/yamaha.png?raw=true)
 
 __lee-sans__
 
-![glyph-lee-sans](https://github.com/niklauslee/simple-fonts/blob/main/images/lee-sans.jpeg?raw=true)
+![glyph-lee-sans](https://github.com/niklauslee/simple-fonts/blob/main/images/lee-sans.png?raw=true)
 
 ## License
 
